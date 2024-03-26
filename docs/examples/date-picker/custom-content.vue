@@ -4,7 +4,7 @@
       v-model="value"
       type="date"
       placeholder="Pick a day"
-      format="YYYY/MM/DD"
+      format="YYYY/MM"
       value-format="YYYY-MM-DD"
     >
       <template #default="cell">
